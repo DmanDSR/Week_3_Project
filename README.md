@@ -1,4 +1,4 @@
-# BMI Comparison North America Vs. Latin American 
+# BMI Comparison North America Vs. Latin America 
  by Dylan Sedeno and Rayner Morla
 
  ### Project Resources
