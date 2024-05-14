@@ -6,6 +6,15 @@
  - [Estimation of Obesity Levels Based On Eating Habits and Physical Condition](https://www.kaggle.com/datasets/niharika41298/gym-exercise-data?resource=download](https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition))
  - [Obesity prediction](https://www.kaggle.com/datasets/rahul2699/workout-information]](https://www.kaggle.com/datasets/mrsimple07/obesity-prediction/data))
 
+### Project Overview
+
+- The datasets we acquired had data on unidentified individuals the data provided us with their sex, age, height, weight, obesity level, the number of days they are active each week, and data unnecessary to our topic.
+  
+- The different units of measurement, confusing names, and other issues required deep cleaning, formatting, and erasing
+  
+- Extra columns were made and data values were calculated/converted. 
+
+
 ### Question
 
 - Is there a significant difference in BMI levels between genders across different age groups, and does this difference vary depending on whether individuals engage in physical activity or not? 
