@@ -8,4 +8,11 @@
 
 ### Question
 
-Is there a significant difference in BMI levels between genders across different age groups, and does this difference vary depending on whether individuals engage in physical activity or not? Furthermore, this study aims to compare the BMI disparities between genders and physical activity engagement within the Latin America and North America regions
+- Is there a significant difference in BMI levels between genders across different age groups, and does this difference vary depending on whether individuals engage in physical activity or not? 
+
+- Furthermore, this study aims to compare the BMI disparities between genders and physical activity engagement within the Latin America and North America regions
+
+### Business Opportunities for Improvement
+
+For a company reaching its target audience is essential, if they are not reaching their audience they will surely perish. Part of this is knowing where to focus your efforts: what age demographic?  what gender?  what region? These questions need to be answered so companies can be more effective in reaching who they want to reach.  This is where our project comes in, we aim to help companies in the health and wellness section to better reach their audiences. For this time our efforts are focused on North American and Latin American audiences. 
+
