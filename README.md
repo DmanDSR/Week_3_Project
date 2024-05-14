@@ -14,14 +14,14 @@
   
 - The different units of measurement, confusing names, and other issues required deep cleaning, formatting, and erasing
   
-- Extra columns were made and data values were calculated/converted. 
+- Extra columns were made and data values were calculated/converted.
+
+- This study aims to compare the BMI disparities between genders and physical activity engagement within the Latin American and North American regions
 
 
 ### Question
 
 - Is there a significant difference in BMI levels between genders across different age groups, and does this difference vary depending on whether individuals engage in physical activity or not? 
-
-- Furthermore, this study aims to compare the BMI disparities between genders and physical activity engagement within the Latin America and North America regions
 
 ### Business Opportunities for Improvement
 
