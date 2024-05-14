@@ -6,6 +6,8 @@
  - [Estimation of Obesity Levels Based On Eating Habits and Physical Condition](https://www.kaggle.com/datasets/niharika41298/gym-exercise-data?resource=download](https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition))
  - [Obesity prediction](https://www.kaggle.com/datasets/rahul2699/workout-information]](https://www.kaggle.com/datasets/mrsimple07/obesity-prediction/data))
 
+#### [Project Presentation](https://docs.google.com/presentation/d/1nau63EudZ5EkriKWWj5F0DoEIlhbmWWHaBcQ8ixIQ-8/edit?usp=sharing) 
+
 ### Project Overview
 
 - The datasets we acquired had data on unidentified individuals the data provided us with their sex, age, height, weight, obesity level, the number of days they are active each week, and data unnecessary to our topic.
