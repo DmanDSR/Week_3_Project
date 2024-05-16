@@ -1,4 +1,4 @@
-# BMI Comparison North America Vs. Latin America 
+# Exploring Obesity Patterns in Latin and North America
  by Dylan Sedeno and Rayner Morla
 
  ### Project Resources
