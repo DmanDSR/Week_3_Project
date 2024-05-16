@@ -42,7 +42,7 @@ For a company reaching its target audience is essential, if they are not reachin
  - [Estimation of Obesity Levels Based On Eating Habits and Physical Condition](https://www.kaggle.com/datasets/niharika41298/gym-exercise-data?resource=download](https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition))
  - [Obesity prediction](https://www.kaggle.com/datasets/rahul2699/workout-information]](https://www.kaggle.com/datasets/mrsimple07/obesity-prediction/data))
 
-#### [Project Presentation](https://docs.google.com/presentation/d/1nau63EudZ5EkriKWWj5F0DoEIlhbmWWHaBcQ8ixIQ-8/edit?usp=sharing) 
+#### [Project Presentation] (https://docs.google.com/presentation/d/1kMlfei8JbzRfiHxtTn8D9knOzrNO_R7YvQaf4BauLcI/edit?usp=drive-slack&ts=664681a7)
 
 #### [Trello](https://trello.com/invite/b/ZRrmOmVJ/ATTIafa1ac2621759ad7215a627eee79191bE37161D1/week-3-project-board-for-github)
 
