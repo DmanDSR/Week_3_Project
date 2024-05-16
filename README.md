@@ -32,9 +32,9 @@
 
 ### Data Wrangling and Cleaning
 
-The data cleaning came with some challenges, we had to fix formatting between the datasets so the units of measure were the same, and the classification of obesity needed to be the same all over and easy to understand. There was no missing data to deal with and only a few duplicates  were caught.
-The units of measure were scattered between the metric system and the imperial system.  We settled on the metric system for all units used.
-The classification of obesity levels for the Latin America data was more specific than North America’s. The data had different levels to overweight (ex overweight level II) and obese (obese level III). This was changed to match the North's data.
+- The data cleaning came with some challenges, we had to fix formatting between the datasets so the units of measure were the same, and the classification of obesity needed to be the same all over and easy to understand. There was no missing data to deal with and only a few duplicates  were caught.
+- The units of measure were scattered between the metric system and the imperial system.  We settled on the metric system for all units used.
+- The classification of obesity levels for the Latin America data was more specific than North America’s. The data had different levels to overweight (ex overweight level II) and obese (obese level III). This was changed to match the North's data.
 
 ### Exploratory Data Analysis
 
