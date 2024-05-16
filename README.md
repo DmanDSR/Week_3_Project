@@ -11,15 +11,6 @@
 
 - This study aims to compare the BMI disparities between genders and physical activity engagement within the Latin American and North American regions
 
- ### Project Data
- 
- - [Estimation of Obesity Levels Based On Eating Habits and Physical Condition](https://www.kaggle.com/datasets/niharika41298/gym-exercise-data?resource=download](https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition))
- - [Obesity prediction](https://www.kaggle.com/datasets/rahul2699/workout-information]](https://www.kaggle.com/datasets/mrsimple07/obesity-prediction/data))
-
-#### [Project Presentation](https://docs.google.com/presentation/d/1nau63EudZ5EkriKWWj5F0DoEIlhbmWWHaBcQ8ixIQ-8/edit?usp=sharing) 
-
-#### [Trello](https://trello.com/invite/b/ZRrmOmVJ/ATTIafa1ac2621759ad7215a627eee79191bE37161D1/week-3-project-board-for-github)
-
 ### Major Obstacle 
 
 - This project was fun to work on, and the insights we gained were interesting. There were a few obstacles we encountered that put our newly acquired skills to the test. Finding the data proved to be time-consuming taking up a good 3 hours on day one. 
@@ -45,4 +36,14 @@
 ### Business Opportunities for Improvement
 
 For a company reaching its target audience is essential, if they are not reaching their audience they will surely perish. Part of this is knowing where to focus your efforts: what age demographic?  what gender?  what region? These questions need to be answered so companies can be more effective in reaching who they want to reach.  This is where our project comes in, we aim to help companies in the health and wellness section to better reach their audiences. For this time our efforts are focused on North American and Latin American audiences. 
+
+ ### Project Data
+ 
+ - [Estimation of Obesity Levels Based On Eating Habits and Physical Condition](https://www.kaggle.com/datasets/niharika41298/gym-exercise-data?resource=download](https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition))
+ - [Obesity prediction](https://www.kaggle.com/datasets/rahul2699/workout-information]](https://www.kaggle.com/datasets/mrsimple07/obesity-prediction/data))
+
+#### [Project Presentation](https://docs.google.com/presentation/d/1nau63EudZ5EkriKWWj5F0DoEIlhbmWWHaBcQ8ixIQ-8/edit?usp=sharing) 
+
+#### [Trello](https://trello.com/invite/b/ZRrmOmVJ/ATTIafa1ac2621759ad7215a627eee79191bE37161D1/week-3-project-board-for-github)
+
 
