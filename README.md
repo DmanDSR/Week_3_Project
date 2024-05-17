@@ -68,6 +68,9 @@ Through the creation of this project, we were able to learn the proper order and
 
 <img width="436" alt="image" src="https://github.com/DmanDSR/Week_3_Project/assets/48893423/e09aff0a-2f5f-4210-bb9d-7d0bb625431c">
 
+<img width="464" alt="image" src="https://github.com/DmanDSR/Week_3_Project/assets/48893423/886da02d-9f80-473f-9f4f-10c52458964c">
+
+<img width="466" alt="image" src="https://github.com/DmanDSR/Week_3_Project/assets/48893423/15839f28-0e62-4417-aa06-ac9613185814">
 
  ### Project Data
  
