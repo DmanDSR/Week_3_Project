@@ -37,6 +37,19 @@
 
 For a company reaching its target audience is essential, if they are not reaching their audience they will surely perish. Part of this is knowing where to focus your efforts: what age demographic?  what gender?  what region? These questions need to be answered so companies can be more effective in reaching who they want to reach.  This is where our project comes in, we aim to help companies in the health and wellness section to better reach their audiences. For this time our efforts are focused on North American and Latin American audiences. 
 
+### CONCLUSIONS
+
+Through the creation of this project, we were able to learn the proper order and structure  for data cleaning, and EDA. We learned how working together effectively, and efficiently will look like in the professional field. As well as what it takes to tackle objectives  for developing  and finalizing a project in a given timeline 
+
+### The Data Visuals
+
+<img width="440" alt="image" src="https://github.com/DmanDSR/Week_3_Project/assets/48893423/29dc2e49-9e30-4b3e-8fae-a5ee33a1eb68">
+
+<img width="436" alt="image" src="https://github.com/DmanDSR/Week_3_Project/assets/48893423/c338d81f-c94b-4755-9d7e-590ce9fad071">
+
+<img width="436" alt="image" src="https://github.com/DmanDSR/Week_3_Project/assets/48893423/e09aff0a-2f5f-4210-bb9d-7d0bb625431c">
+
+
  ### Project Data
  
  - [Estimation of Obesity Levels Based On Eating Habits and Physical Condition](https://www.kaggle.com/datasets/niharika41298/gym-exercise-data?resource=download](https://archive.ics.uci.edu/dataset/544/estimation+of+obesity+levels+based+on+eating+habits+and+physical+condition))
