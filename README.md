@@ -1,6 +1,15 @@
 # Exploring Obesity Patterns in Latin and North America
  by Dylan Sedeno and Rayner Morla
 
+ ### Introduction
+
+- Investigate BMI differences across various groups. Determine if BMI differences are influenced by:
+- Physical activity levels
+- Age
+- Gender
+- Demographic
+
+
 ### Project Overview
 
 - The datasets we acquired had data on unidentified individuals the data provided us with their sex, age, height, weight, obesity level, the number of days they are active each week, and data unnecessary to our topic.
@@ -32,6 +41,16 @@
 - With our EDA we were looking for patterns showing a correlation between BMI and any other variable we have.
 - We got our datasets from Kaggle, 1000 rows of data for North America and 2111 for Latin America. After cleaning and removal of duplicate data Latin America had 2086 rows of data. 
 - There was enough data from the Latin America dataset to calculate the BMI of each unknown individual.
+
+### Teamwork & Project Mangement
+
+- Addressed project objectives efficiently due to time constraints.
+- Assigned clear roles and responsibilities.
+- Took 10-minute breaks every 90 minutes to maintain productivity.
+- Held small discussions to decide on changes and improvements.
+- Conducted daily progress check-ins.
+- Created a detailed project plan.
+- Supported each other and provided constructive feedback.
 
 ### Business Opportunities for Improvement
 
